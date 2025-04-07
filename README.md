@@ -16,7 +16,7 @@ Recommended system having 3 types:
 Clone the repository
 
 ```bash
-https://github.com/Bharatimudigoudra/Book-Recommended-System.git
+https://github.com/Bharatimudigoudra/Book-Recommender-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
